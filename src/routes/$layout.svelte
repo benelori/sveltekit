@@ -1,7 +1,5 @@
-<style global lang="postcss">
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
-</style>
+<script>
+  import '$lib/styles/tailwind.css';
+</script>
 
 <slot />
